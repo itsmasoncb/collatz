@@ -1,0 +1,1 @@
+# Enter Number, if EVEN then divide by 2, if ODD multiply by 3 and add 1, REPEAT until number equals 1.
